@@ -25,13 +25,14 @@ h1{
     color:rgb(255, 0, 0);
 }
 .dot{
+  text-transform:capitalize;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
     border-style:solid;
   border-color: rgb(255, 0, 0);
   background-color: azure;
 }
 
-ul {
+.bottom{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -62,6 +63,7 @@ ul {
   .insert{
 
 color: rgb(1, 8, 14);
+text-transform: uppercase;
     border-left: 15px solid rgb(9, 158, 245);
     background-color: lightgrey;
     border-width: 7px;
@@ -83,4 +85,23 @@ border: 2px solid rgb(255, 255, 255);
   height: 200px;
   border: 3px solid rgb(0, 0, 0);
   overflow:scroll;
+}
+.text{
+  color: aliceblue;
+  text-align:left;
+  text-decoration-line: overline;
+  text-decoration-color: red;
+}
+.info{
+  font-size:x-large;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(255, 0, 0), 0 0 5px darkblue;
+  text-transform: uppercase;
+}
+.bii{
+  margin: 30px;
+  border: 3px solid #f0f0f0;
+  font-size: xx-large;
+  color: aliceblue;
+  list-style-type: symbols(0);
 }
