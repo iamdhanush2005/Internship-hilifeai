@@ -1,16 +1,17 @@
+body{
+    background-color: rgba(141, 146, 146, 0.897);
+}
 .btn-group{
     
     float: center;
 }
 .task{
-    background-color: rgb(0, 162, 255);
+    background-color: rgb(9, 148, 241);
     height: 300px;
 }
-.div{
-    text-transform:uppercase;
-    height: 40px;
-    background-color: black;
+.cl{
+    text-transform: capitalize;
 }
-.navy{
-    background-color: rgb(16, 17, 19);
+.wee{
+text position: 10;
 }
