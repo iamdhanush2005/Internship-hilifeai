@@ -1,8 +1,26 @@
-.edi{
-    font-size: 200%;
-    font-style: bold;
+.m1{
+    font-style: italic;
+    font-size:50PX;
+    color: rgba(255, 21, 4, 0.849);
 }
-.boo{
-    font-size: xx-large;
-    text-transform: uppercase;
-}
+ .m3{
+    color: blue;
+ }
+ .m4{
+    color: blue;
+ }
+ .imgg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+ }
+ .img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 7px;
+ }
+ body{
+   background-image:url("https://thumbs.dreamstime.com/b/beautiful-living-coral-abstract-modern-waving-business-background-design-easy-editing-color-change-other-manipulation-135190910.jpg")
+ }
