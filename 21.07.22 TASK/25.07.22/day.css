@@ -1,3 +1,6 @@
+body{
+background-color: rgb(204, 0, 0);
+}
 #AJS1{
     background-image:url(m.jpg)
   }
@@ -13,3 +16,8 @@
   .aaa{
     margin: 25px 50px 75px 100px;
   }
+.coo{
+    list-style-type:square;
+    font-size: 19px;
+    color: aliceblue;
+}
